@@ -27,8 +27,7 @@ python Gen.py
 
 ### Tools You Might Need
 
->  **[Username Scraper](https://github.com/Tokens404/UserNameScraper)**
->  **[Guilded Joiner](https://github.com/Tokens404/Guilded-Joiner)**
+>  **[Username Scraper](https://github.com/Tokens404/UserNameScraper)** `|` **[Guilded Joiner](https://github.com/Tokens404/Guilded-Joiner)**
 
 --------------------------------------- 
 
