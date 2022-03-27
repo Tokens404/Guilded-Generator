@@ -1,5 +1,5 @@
 # UserNameScraper
-🤖 | The Best And Fastest Username Scraper
+🤖 | The Best And Fastest Guilded Generator
 
 ---------------------------------------
 
